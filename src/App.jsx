@@ -37,7 +37,7 @@ function App() {
           </article>
         ))}
       </section>
-      <footer><span>Frontend: React + Vite</span><span>Backend: Laravel</span><span>Automation: GitHub Actions 1</span></footer>
+      <footer><span>Frontend: React + Vite</span><span>Backend: Laravel</span><span>Automation: GitHub Actions 133</span></footer>
     </main>
   )
 }
